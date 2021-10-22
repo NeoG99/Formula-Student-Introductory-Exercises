@@ -1,0 +1,5 @@
+exc1/package2
+/home/neo/kthfsdv/devel/.private/package2/cmake.lock /home/neo/kthfsdv/devel/./cmake.lock
+/home/neo/kthfsdv/devel/.private/package2/share/package2/cmake/package2Config-version.cmake /home/neo/kthfsdv/devel/share/package2/cmake/package2Config-version.cmake
+/home/neo/kthfsdv/devel/.private/package2/share/package2/cmake/package2Config.cmake /home/neo/kthfsdv/devel/share/package2/cmake/package2Config.cmake
+/home/neo/kthfsdv/devel/.private/package2/lib/pkgconfig/package2.pc /home/neo/kthfsdv/devel/lib/pkgconfig/package2.pc

@@ -1,0 +1,8 @@
+prefix=/home/neo/kthfsdv-plotting/devel/.private/functionplotter
+
+Name: functionplotter
+Description: Description of functionplotter
+Version: 0.0.0
+Cflags: -I/home/neo/kthfsdv-plotting/devel/.private/functionplotter/include
+Libs: -L${prefix}/lib 
+Requires: 

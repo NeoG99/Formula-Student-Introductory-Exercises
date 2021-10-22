@@ -1,0 +1,6 @@
+devel_space: /home/neo/kthfsdv/devel
+install: false
+install_space: /home/neo/kthfsdv/install
+profile: default
+source_space: /home/neo/kthfsdv/src
+workspace: /home/neo/kthfsdv

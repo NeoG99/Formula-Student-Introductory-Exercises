@@ -1,0 +1,8 @@
+prefix=/home/neo/kthfsdv/install
+
+Name: package2
+Description: Description of package2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

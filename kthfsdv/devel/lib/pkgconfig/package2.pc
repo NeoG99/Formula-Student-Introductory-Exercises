@@ -1,0 +1,1 @@
+/home/neo/kthfsdv/devel/.private/package2/lib/pkgconfig/package2.pc

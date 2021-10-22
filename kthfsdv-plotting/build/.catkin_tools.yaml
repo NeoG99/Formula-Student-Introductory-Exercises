@@ -1,0 +1,6 @@
+devel_space: /home/neo/kthfsdv-plotting/devel
+install: false
+install_space: /home/neo/kthfsdv-plotting/install
+profile: default
+source_space: /home/neo/kthfsdv-plotting/src
+workspace: /home/neo/kthfsdv-plotting
