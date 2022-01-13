@@ -1,13 +1,9 @@
 #!/usr/bin/env python
 
-# Apparently it is VERY important that this little asswipe bit of code
-# is at the very top of the document...
-
 # Write a publisher node that sends a number k > 0 increasing by
 # n each generation at the rate 20 Hz and where n = 4. Send it to a
 # topic named "gumbel". If possible try to reduce network throughput. 
-# How the fuck I am supposed to do that is as of yet unclear.
-# In the last step also create a plot using rqt_plot
+
 
 import rospy
 from std_msgs.msg import Int16 # As I interpret it k should be an int, but maybe not?
