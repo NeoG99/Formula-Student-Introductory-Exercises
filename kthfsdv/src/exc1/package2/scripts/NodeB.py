@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+#
+
 # This node will recieve the int from topic "gumbel", divide by q, with q = 0.15,
 # and publish the result to topic "results" with rate 20 Hz
 
