@@ -4,7 +4,7 @@ class buildEnvironment:
     def __init__(self,MapDimensions):
         pygame.init()
         self.pointCloud = [] # Groups of 2D points in 2D-space
-        self.externalMap = pygame.image.load("map2.png")
+        self.externalMap = pygame.image.load(r"C:\Users\Neo\Documents\GitHub\Formula-Student-Introductory-Exercises\SLAM\map1.png")
         self.maph, self.mapw = MapDimensions # Splits the canvas height and width
         self.MapWindowName = "RRT Path Planning"
         pygame.display.set_caption(self.MapWindowName)
@@ -36,5 +36,25 @@ class buildEnvironment:
         self.infomap = self.map.copy()
         for point in self.pointCloud:
             self.infomap.set_at((int(point[0]), int(point[1])), (255,0,0))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
